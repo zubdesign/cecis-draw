@@ -236,15 +236,15 @@
   }
  
  .slide1 {
-    background-image: url(/img/opc\ 1.jpg);
+    background-image: url(../img/opc\ 1.jpg);
   }
  
  .slide2 {
-   background-image: url(/img/opc\ 2.jpeg);
+   background-image: url(../img/opc\ 2.jpeg);
  }
  
  .slide3 {
-   background-image: url(/img/opc\ 3.JPG);
+   background-image: url(../img/opc\ 3.JPG);
  }
  
  .slick-dots li button::before {
@@ -348,7 +348,7 @@
 .parallax {
   width: 100%;
   height: 100%;
-  background-image: url(/img/parallax\ \(1\).jpg);
+  background-image: url(../img/parallax\ \(1\).jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
